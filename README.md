@@ -6,6 +6,7 @@ The PDF file will reveals business understanding, workflow, requirement, designi
 
 This demo tested on GCP-Environment; requires GCP 3 buckets, 3 BigQuery datasets.
 Environment configuration on GCP:
+
     # GCP project - create with gcp
     GCP_PROJECT_ID = 'madt7102-termproject-ecommerce';
 
