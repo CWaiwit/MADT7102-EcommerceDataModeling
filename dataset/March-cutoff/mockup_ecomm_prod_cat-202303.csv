@@ -1,0 +1,123 @@
+id,code,label,desc,created_dt,updated_dt,deactivated_flag
+CAT0001,accessories.bag,Bag,Accessories bag,2022-11-01,2022-11-01,False
+CAT0002,accessories.umbrella,Umbrella,Accessories umbrella,2022-11-01,2022-11-01,False
+CAT0003,accessories.wallet,Wallet,Accessories wallet,2022-11-01,2022-11-01,False
+CAT0004,apparel.belt,Belt,Apparel belt,2022-11-01,2022-11-01,False
+CAT0005,apparel.costume,Costume,Apparel costume,2022-11-01,2022-11-01,False
+CAT0006,apparel.dress,Dress,Apparel dress,2022-11-01,2022-11-01,False
+CAT0007,apparel.jacket,Jacket,Apparel jacket,2022-11-01,2022-11-01,False
+CAT0008,apparel.scarf,Scarf,Apparel scarf,2022-11-01,2022-11-01,False
+CAT0009,apparel.shirt,Shirt,Apparel shirt,2022-11-01,2022-11-01,False
+CAT0010,apparel.shoes,Shoes,Apparel shoes,2022-11-01,2022-11-01,False
+CAT0011,apparel.shoes.ballet_shoes,Ballet Shoes,Apparel shoes ballet shoes,2022-11-01,2022-11-01,False
+CAT0012,apparel.shoes.espadrilles,Espadrilles,Apparel shoes espadrilles,2022-11-01,2022-11-01,False
+CAT0013,apparel.shoes.keds,Keds,Apparel shoes keds,2022-11-01,2022-11-01,False
+CAT0014,apparel.shoes.moccasins,Moccasins,Apparel shoes moccasins,2022-11-01,2022-11-01,False
+CAT0015,apparel.shoes.sandals,Sandals,Apparel shoes sandals,2022-11-01,2022-11-01,False
+CAT0016,apparel.shoes.slipons,Slipons,Apparel shoes slipons,2022-11-01,2022-11-01,False
+CAT0017,apparel.shoes.step_ins,Step Ins,Apparel shoes step ins,2022-11-01,2022-11-01,False
+CAT0018,apparel.shorts,Shorts,Apparel shorts,2022-11-01,2022-11-01,False
+CAT0019,apparel.skirt,Skirt,Apparel skirt,2022-11-01,2022-11-01,False
+CAT0020,apparel.sock,Sock,Apparel sock,2022-11-01,2022-11-01,False
+CAT0021,apparel.trousers,Trousers,Apparel trousers,2022-11-01,2022-11-01,False
+CAT0022,apparel.tshirt,Tshirt,Apparel tshirt,2022-11-01,2022-11-01,False
+CAT0023,apparel.underwear,Underwear,Apparel underwear,2022-11-01,2022-11-01,False
+CAT0024,appliances.environment.air_conditioner,Air Conditioner,Appliances environment air conditioner,2022-11-01,2022-11-01,False
+CAT0025,appliances.environment.air_heater,Air Heater,Appliances environment air heater,2022-11-01,2022-11-01,False
+CAT0026,appliances.environment.fan,Fan,Appliances environment fan,2022-11-01,2022-11-01,False
+CAT0027,appliances.environment.vacuum,Vacuum,Appliances environment vacuum,2022-11-01,2022-11-01,False
+CAT0028,appliances.environment.water_heater,Water Heater,Appliances environment water heater,2022-11-01,2022-11-01,False
+CAT0029,appliances.iron,Iron,Appliances iron,2022-11-01,2022-11-01,False
+CAT0030,appliances.ironing_board,Ironing Board,Appliances ironing board,2022-11-01,2022-11-01,False
+CAT0031,appliances.kitchen.blender,Blender,Appliances kitchen blender,2022-11-01,2022-11-01,False
+CAT0032,appliances.kitchen.coffee_grinder,Coffee Grinder,Appliances kitchen coffee grinder,2022-11-01,2022-11-01,False
+CAT0033,appliances.kitchen.coffee_machine,Coffee Machine,Appliances kitchen coffee machine,2022-11-01,2022-11-01,False
+CAT0034,appliances.kitchen.dishwasher,Dishwasher,Appliances kitchen dishwasher,2022-11-01,2022-11-01,False
+CAT0035,appliances.kitchen.grill,Grill,Appliances kitchen grill,2022-11-01,2022-11-01,False
+CAT0036,appliances.kitchen.hob,Hob,Appliances kitchen hob,2022-11-01,2022-11-01,False
+CAT0037,appliances.kitchen.hood,Hood,Appliances kitchen hood,2022-11-01,2022-11-01,False
+CAT0038,appliances.kitchen.juicer,Juicer,Appliances kitchen juicer,2022-11-01,2022-11-01,False
+CAT0039,appliances.kitchen.kettle,Kettle,Appliances kitchen kettle,2022-11-01,2022-11-01,False
+CAT0040,appliances.kitchen.meat_grinder,Meat Grinder,Appliances kitchen meat grinder,2022-11-01,2022-11-01,False
+CAT0041,appliances.kitchen.microwave,Microwave,Appliances kitchen microwave,2022-11-01,2022-11-01,False
+CAT0042,appliances.kitchen.mixer,Mixer,Appliances kitchen mixer,2022-11-01,2022-11-01,False
+CAT0043,appliances.kitchen.oven,Oven,Appliances kitchen oven,2022-11-01,2022-11-01,False
+CAT0044,appliances.kitchen.refrigerators,Refrigerators,Appliances kitchen refrigerators,2022-11-01,2022-11-01,False
+CAT0045,appliances.kitchen.steam_cooker,Steam Cooker,Appliances kitchen steam cooker,2022-11-01,2022-11-01,False
+CAT0046,appliances.kitchen.toster,Toster,Appliances kitchen toster,2022-11-01,2022-11-01,False
+CAT0047,appliances.kitchen.washer,Washer,Appliances kitchen washer,2022-11-01,2022-11-01,False
+CAT0048,appliances.personal.hair_cutter,Hair Cutter,Appliances personal hair cutter,2022-11-01,2022-11-01,False
+CAT0049,appliances.personal.massager,Massager,Appliances personal massager,2022-11-01,2022-11-01,False
+CAT0050,appliances.personal.scales,Scales,Appliances personal scales,2022-11-01,2022-11-01,False
+CAT0051,appliances.sewing_machine,Sewing Machine,Appliances sewing machine,2022-11-01,2022-11-01,False
+CAT0052,auto.accessories.alarm,Alarm,Auto accessories alarm,2022-11-01,2022-11-01,False
+CAT0053,auto.accessories.compressor,Compressor,Auto accessories compressor,2022-11-01,2022-11-01,False
+CAT0054,auto.accessories.parktronic,Parktronic,Auto accessories parktronic,2022-11-01,2022-11-01,False
+CAT0055,auto.accessories.player,Player,Auto accessories player,2022-11-01,2022-11-01,False
+CAT0056,auto.accessories.radar,Radar,Auto accessories radar,2022-11-01,2022-11-01,False
+CAT0057,auto.accessories.videoregister,Videoregister,Auto accessories videoregister,2022-11-01,2022-11-01,False
+CAT0058,auto.accessories.winch,Winch,Auto accessories winch,2022-11-01,2022-11-01,False
+CAT0059,computers.components.cooler,Cooler,Computers components cooler,2022-11-01,2022-11-01,False
+CAT0060,computers.components.cpu,Cpu,Computers components cpu,2022-11-01,2022-11-01,False
+CAT0061,computers.components.hdd,Hdd,Computers components hdd,2022-11-01,2022-11-01,False
+CAT0062,computers.components.memory,Memory,Computers components memory,2022-11-01,2022-11-01,False
+CAT0063,computers.components.motherboard,Motherboard,Computers components motherboard,2022-11-01,2022-11-01,False
+CAT0064,computers.components.power_supply,Power Supply,Computers components power supply,2022-11-01,2022-11-01,False
+CAT0065,computers.components.videocards,Videocards,Computers components videocards,2022-11-01,2022-11-01,False
+CAT0066,computers.desktop,Desktop,Computers desktop,2022-11-01,2022-11-01,False
+CAT0067,computers.ebooks,Ebooks,Computers ebooks,2022-11-01,2022-11-01,False
+CAT0068,computers.notebook,Notebook,Computers notebook,2022-11-01,2022-11-01,False
+CAT0069,computers.peripherals.camera,Camera,Computers peripherals camera,2022-11-01,2022-11-01,False
+CAT0070,computers.peripherals.keyboard,Keyboard,Computers peripherals keyboard,2022-11-01,2022-11-01,False
+CAT0071,computers.peripherals.monitor,Monitor,Computers peripherals monitor,2022-11-01,2022-11-01,False
+CAT0072,computers.peripherals.mouse,Mouse,Computers peripherals mouse,2022-11-01,2022-11-01,False
+CAT0073,computers.peripherals.printer,Printer,Computers peripherals printer,2022-11-01,2022-11-01,False
+CAT0074,construction.components.faucet,Faucet,Construction components faucet,2022-11-01,2022-11-01,False
+CAT0075,construction.tools.drill,Drill,Construction tools drill,2022-11-01,2022-11-01,False
+CAT0076,construction.tools.generator,Generator,Construction tools generator,2022-11-01,2022-11-01,False
+CAT0077,construction.tools.light,Light,Construction tools light,2022-11-01,2022-11-01,False
+CAT0078,construction.tools.painting,Painting,Construction tools painting,2022-11-01,2022-11-01,False
+CAT0079,construction.tools.pump,Pump,Construction tools pump,2022-11-01,2022-11-01,False
+CAT0080,construction.tools.saw,Saw,Construction tools saw,2022-11-01,2022-11-01,False
+CAT0081,construction.tools.welding,Welding,Construction tools welding,2022-11-01,2022-11-01,False
+CAT0082,country_yard.cultivator,Cultivator,Country yard cultivator,2022-11-01,2022-11-01,False
+CAT0083,country_yard.furniture.bench,Bench,Country yard furniture bench,2022-11-01,2022-11-01,False
+CAT0084,country_yard.furniture.hammok,Hammok,Country yard furniture hammok,2022-11-01,2022-11-01,False
+CAT0085,country_yard.lawn_mower,Lawn Mower,Country yard lawn mower,2022-11-01,2022-11-01,False
+CAT0086,electronics.audio.acoustic,Acoustic,Electronics audio acoustic,2022-11-01,2022-11-01,False
+CAT0087,electronics.audio.headphone,Headphone,Electronics audio headphone,2022-11-01,2022-11-01,False
+CAT0088,electronics.audio.microphone,Microphone,Electronics audio microphone,2022-11-01,2022-11-01,False
+CAT0089,electronics.audio.music_tools.piano,Piano,Electronics audio music tools piano,2022-11-01,2022-11-01,False
+CAT0090,electronics.audio.subwoofer,Subwoofer,Electronics audio subwoofer,2022-11-01,2022-11-01,False
+CAT0091,electronics.camera.photo,Photo,Electronics camera photo,2022-11-01,2022-11-01,False
+CAT0092,electronics.camera.video,Video,Electronics camera video,2022-11-01,2022-11-01,False
+CAT0093,electronics.clocks,Clocks,Electronics clocks,2022-11-01,2022-11-01,False
+CAT0094,electronics.smartphone,Smartphone,Electronics smartphone,2022-11-01,2022-11-01,False
+CAT0095,electronics.tablet,Tablet,Electronics tablet,2022-11-01,2022-11-01,False
+CAT0096,electronics.telephone,Telephone,Electronics telephone,2022-11-01,2022-11-01,False
+CAT0097,electronics.video.projector,Projector,Electronics video projector,2022-11-01,2022-11-01,False
+CAT0098,electronics.video.tv,Tv,Electronics video tv,2022-11-01,2022-11-01,False
+CAT0099,furniture.bathroom.bath,Bath,Furniture bathroom bath,2022-11-01,2022-11-01,False
+CAT0100,furniture.bathroom.toilet,Toilet,Furniture bathroom toilet,2022-11-01,2022-11-01,False
+CAT0101,furniture.bedroom.bed,Bed,Furniture bedroom bed,2022-11-01,2022-11-01,False
+CAT0102,furniture.bedroom.blanket,Blanket,Furniture bedroom blanket,2022-11-01,2022-11-01,False
+CAT0103,furniture.bedroom.pillow,Pillow,Furniture bedroom pillow,2022-11-01,2022-11-01,False
+CAT0104,furniture.kitchen.chair,Chair,Furniture kitchen chair,2022-11-01,2022-11-01,False
+CAT0105,furniture.kitchen.table,Table,Furniture kitchen table,2022-11-01,2022-11-01,False
+CAT0106,furniture.living_room.cabinet,Cabinet,Furniture living room cabinet,2022-11-01,2022-11-01,False
+CAT0107,furniture.living_room.chair,Chair,Furniture living room chair,2022-11-01,2022-11-01,False
+CAT0108,furniture.living_room.sofa,Sofa,Furniture living room sofa,2022-11-01,2022-11-01,False
+CAT0109,furniture.universal.light,Light,Furniture universal light,2022-11-01,2022-11-01,False
+CAT0110,kids.carriage,Carriage,Kids carriage,2022-11-01,2022-11-01,False
+CAT0111,kids.dolls,Dolls,Kids dolls,2022-11-01,2022-11-01,False
+CAT0112,kids.fmcg.diapers,Diapers,Kids fmcg diapers,2022-11-01,2022-11-01,False
+CAT0113,kids.skates,Skates,Kids skates,2022-11-01,2022-11-01,False
+CAT0114,kids.swing,Swing,Kids swing,2022-11-01,2022-11-01,False
+CAT0115,kids.toys,Toys,Kids toys,2022-11-01,2022-11-01,False
+CAT0116,medicine.tools.tonometer,Tonometer,Medicine tools tonometer,2022-11-01,2022-11-01,False
+CAT0117,sport.bicycle,Bicycle,Sport bicycle,2022-11-01,2022-11-01,False
+CAT0118,sport.ski,Ski,Sport ski,2022-11-01,2022-11-01,False
+CAT0119,sport.snowboard,Snowboard,Sport snowboard,2022-11-01,2022-11-01,False
+CAT0120,sport.tennis,Tennis,Sport tennis,2022-11-01,2022-11-01,False
+CAT0121,sport.trainer,Trainer,Sport trainer,2022-11-01,2022-11-01,False
+CAT0122,stationery.cartrige,Cartrige,Stationery cartrige,2022-11-01,2022-11-01,False
